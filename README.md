@@ -1,3 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20RyuChanghwi%20&height=300&fontSize=100&textBg=true)
 
-Hi there! 👋 I'm mobile app developer using iOS
+
+<p>
+Hi there! 👋 I'm mobile app developer using iOS<br/>
+I'm interested in observing apps and creating them myself
+</p>
+
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+</p>
