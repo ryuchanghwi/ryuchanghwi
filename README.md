@@ -2,7 +2,7 @@
 
 <p>
 Hi there! 👋 I'm mobile app developer using iOS<br/>
-I'm interested in observing apps and creating them myself
+
 </p>
 
 
