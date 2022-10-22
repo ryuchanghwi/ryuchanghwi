@@ -21,7 +21,3 @@ Hi there! 👋 I'm mobile app developer using iOS<br/>
 </p>
 
 
-<br><br>
-### 💻 Github Stats
-[![Changhwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuchanghwi)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
