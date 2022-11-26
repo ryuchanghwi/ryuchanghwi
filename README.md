@@ -3,7 +3,7 @@
 
 ### 안녕하세요. 기획과 iOS 개발을 통해 서비스를 만드는 류창휘입니다. 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuchanghwi&show_icons=true&theme=radical)
 
 <h3 align="center">💪 Skills</h3>
 <h4 align="center">Platforms & Languages</h3>
