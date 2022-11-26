@@ -2,6 +2,9 @@
 
 
 ### 안녕하세요. 기획과 iOS 개발을 통해 서비스를 만드는 류창휘입니다. 
+* 💻 도전하고, 부족한 점을 채워나가는 과정을 즐깁니다.
+* 🎨 더 나은 서비스를 만들기 위해 피드백을 중요시하고 토론을 중요시합니다. 
+* 😎 "잘하기"보다는 "자라기"의 가치를 가지고 있습니다. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuchanghwi&show_icons=true&theme=radical)
 
