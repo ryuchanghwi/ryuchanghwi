@@ -1,7 +1,7 @@
 
 
 <p>
-Hi there! 👋 I'm mobile app developer using iOS<br/>
+안녕하세요. 기획과 iOS 개발을 통해 서비스를 만드는 류창휘입니다. 
 
 </p>
 
