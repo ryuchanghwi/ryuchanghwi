@@ -1,6 +1,3 @@
-> * 이해하기 쉬운 코드를 지향합니다.
-> * 부족한 점을 되돌아보고, 개선하는 과정을 [기록](https://declan.tistory.com/)합니다.
-
 <br> 
 
 <div align=center>
