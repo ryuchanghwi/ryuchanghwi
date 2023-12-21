@@ -16,7 +16,7 @@
 ## Side Projects
 
 ### ✨스파클(진행중)
-- 연인 간 짜릿한 미션 승부를 통한 소원권 내기 서비스 ([README](https://github.com/U-is-Ni-in-Korea/iOS-United))
+- 연인 간 짜릿한 미션 승부를 통한 소원권 내기 서비스 ([README](https://github.com/ryuchanghwi/SparkleApp))
 - 스파클의 디자인 시스템 ([REPO](https://github.com/U-is-Ni-in-Korea/iOS-SDS-United))
 
 ### 🏋🏻[오운완](https://apps.apple.com/kr/app/%EC%98%A4%EC%9A%B4%EC%99%84-%EB%88%88%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99-%EA%B8%B0%EB%A1%9D/id6451257136)
