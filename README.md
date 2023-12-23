@@ -8,7 +8,7 @@
 **Architecture**
 - MVC, MVVM, Clean Architecture
 
-<br><br>
+<br>
 
 
 
