@@ -1,12 +1,14 @@
-<br> 
+## Skill & Tool
+**iOS**
+- Swift, UIKit, SwiftUI, SPM
 
-<div align=center>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=for-the-badge&logo=swift&logoColor=blue"/>
-	<img src="https://img.shields.io/badge/Swift-0D0D0D?style=for-the-badge&logo=Swift&logoColor=orange"/>
- 	<img src="https://img.shields.io/badge/RxSwift-0D0D0D?style=for-the-badge&logo=ReactiveX&logoColor=pink"/>
+**Tool**
+- Git, Github, Figma
 
-</div>
+**Architecture**
+- MVC, MVVM, Clean Architecture
+
+<br><br>
 
 
 
